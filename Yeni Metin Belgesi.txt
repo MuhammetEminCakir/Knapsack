@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Knapsack.c
+Row count: 4 Max weight: 11
+conclusion: 19
+0.000001 second
+
+C:\Users\ASUS\Desktop\Knapsack.c
+Row count: 100 Max weight: 100000
+conclusion: 99837
+10.368582 second
+
+C:\Users\ASUS\Desktop\Knapsack.c
+Row count: 10000 Max weight: 1000000
+conclusion: 1099362
+103.468935 second
